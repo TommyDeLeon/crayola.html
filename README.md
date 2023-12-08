@@ -15,10 +15,14 @@ This project was a colorful adventure into the creation of a set of colored mark
 We brought to life a webpage displaying a set of three colored markers (red, green, and blue). Each marker is a masterpiece, represented by a div with the class 'marker' and a color class (either red, green, or blue). Inside each marker div, there are two more divs representing the cap and sleeve of the marker.
 
 ## 💡 Ideas to Make It Better
-### More Colors: Our set currently has three colors. How about we add more colors to make the set of markers more complete? 🌈
-### Interactivity: Let's add some JavaScript to make the markers interactive. Imagine being able to click on a marker to select it, and then draw on a canvas with the selected color! 🎨
-### Accessibility: Let's ensure that our webpage is accessible to all users. This could include adding descriptive alt text for any images, ensuring sufficient color contrast, and adding ARIA attributes where necessary. 🌐
+### More Colors:
+Our set currently has three colors. How about we add more colors to make the set of markers more complete? 🌈
+### Interactivity:
+Let's add some JavaScript to make the markers interactive. Imagine being able to click on a marker to select it, and then draw on a canvas with the selected color! 🎨
+### Accessibility:
+Let's ensure that our webpage is accessible to all users. This could include adding descriptive alt text for any images, ensuring sufficient color contrast, and adding ARIA attributes where necessary. 🌐
 
 ## 📸 Visuals
 Here are some screenshots of the webpage:
+
 ![image](https://github.com/TommyDeLeon/crayola.html/assets/144635056/27347929-1f28-4468-8a99-975cff7291c9)
